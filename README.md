@@ -71,6 +71,10 @@ Service Info: Hosts:  metasploitable.localdomain, irc.Metasploitable.LAN; OSs: U
 #### Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
 
+https://www.exploit-db.com/exploits/49757
+https://www.exploit-db.com/exploits/17491
+https://www.exploit-db.com/exploits/6122
+
 
 `Приведите ответ в свободной форме........`
 
